@@ -1,0 +1,7 @@
+ERROR:root:division by zero: На ноль делить нельзя
+ERROR:root:division by zero: На ноль делить нельзя
+DEBUG:root:x / y = 2.5
+ERROR:root:division by zero: На ноль делить нельзя
+ERROR:root:division by zero: На ноль делить нельзя
+DEBUG:root:x / y = 1.6666666666666667
+DEBUG:root:x / y = 5.0
